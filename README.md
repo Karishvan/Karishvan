@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Karishvan Ragunathan! 👋</h1>
 
 <h3 align="center">Welcome to my GitHub profile! </h3>
-  I'm a 2nd year Computer Science Co-op student at Toronto Metropolitan University passionate about Software Development and technology. I find it interesting to learn new languages and technologies so I can use my skills to create something innovative. Here you'll find some of the projects I've been working on during and outside of school.
+  I'm a 3rd year Computer Science Co-op student at Toronto Metropolitan University passionate about Software Development and technology. I find it interesting to learn new languages and technologies so I can use my skills to create something innovative. Here you'll find some of the projects I've been working on during and outside of school.
 
 ## My Projects
 
